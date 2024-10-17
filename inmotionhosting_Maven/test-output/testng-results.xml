@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-17T09:47:34 IST" name="Suite" finished-at="2024-10-17T09:48:08 IST" duration-ms="33631">
+    <groups>
+    </groups>
+    <test started-at="2024-10-17T09:47:34 IST" name="Test" finished-at="2024-10-17T09:48:08 IST" duration-ms="33631">
+      <class name="Executions.Execute">
+        <test-method is-config="true" signature="BC()[pri:0, instance:Executions.Execute@708f5957]" started-at="2024-10-17T09:47:34 IST" name="BC" finished-at="2024-10-17T09:47:37 IST" duration-ms="2790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method signature="Run()[pri:0, instance:Executions.Execute@708f5957]" started-at="2024-10-17T09:47:37 IST" name="Run" finished-at="2024-10-17T09:48:07 IST" duration-ms="30772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Run -->
+      </class> <!-- Executions.Execute -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,18 @@
+Hos=//a[text()='Shared Hosting Plans']
+
+Sh=//*[@id=\"shared-hosting-rostrum\"]/div/div[2]/div[3]/div[2]/div[2]/button
+
+User=//input[@id='username']
+pop=/html/body/div[5]/div/div/div/div/form/div[3]/ul/li
+
+Lo=//a[text()='Login']
+
+Pass=//input[@id='password']
+
+Cap=/html/body/div[2]/div[3]/div[1]/div/div/span/div[1]
+
+Log1=//button[@id='login-submit']
+
+Scrol=/html/body/div[2]/main/div/div/div/article/div/div[14]/section/div/form/input
+
+Go=//button[@id='domain_submit']
